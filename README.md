@@ -1,4 +1,5 @@
 # blog-comments
+```html
 <script src="https://utteranc.es/client.js"
     repo="rmsrosa/blog_comments"
     issue-term="pathname"
@@ -6,3 +7,4 @@
     crossorigin="anonymous"
     async>
 </script>
+```
